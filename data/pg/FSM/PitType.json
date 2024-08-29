@@ -14,5 +14,12 @@
             "active": true,
             "dimension": "dd"
         }
+     {
+            "name": "Septic tank",
+            "code": "SEPTIC_TANK",
+            "active": true,
+            "dimension": "dd"
+    
+     }
     ]
 }
