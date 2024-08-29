@@ -13,13 +13,13 @@
             "code": "SEPTIC_TANK_WITH_SOAK_PIT",
             "active": true,
             "dimension": "dd"
-        }
+        },
      {
             "name": "Septic tank",
             "code": "SEPTIC_TANK",
             "active": true,
             "dimension": "dd"
     
-     },
+     }
     ]
 }
