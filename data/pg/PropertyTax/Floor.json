@@ -86,24 +86,6 @@
       "code": "9",
       "description": "floor number of the floor",
       "active": true
-    },
-    {
-      "name": "Tenth Floor",
-      "code": "10",
-      "description": "property unoccupied",
-      "active": true
-    },
-    {
-      "name": "Eleventh Floor",
-      "code": "11",
-      "description": "property unoccupied",
-      "active": true
-    },
-    {
-      "name": "Twelveth Floor",
-      "code": "12",
-      "description": "property unoccupied",
-      "active": true
     }
   ]
 }
