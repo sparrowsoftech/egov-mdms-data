@@ -15,8 +15,8 @@
             "idname": "pt.receipt.id"
         },
         {
-            "format": "BT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "bt.receipt.id"
+             "format": "PB-BTR-[cy:yyyy-MM-dd]-[SEQ_EG_BTR_ID]",
+             "idname": "btr.registrationid"
         },
         {
             "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
