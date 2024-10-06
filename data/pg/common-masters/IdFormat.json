@@ -15,6 +15,10 @@
             "idname": "pt.receipt.id"
         },
         {
+            "format": "BT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "bt.receipt.id"
+        },
+        {
             "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "tl.receipt.id"
         },
