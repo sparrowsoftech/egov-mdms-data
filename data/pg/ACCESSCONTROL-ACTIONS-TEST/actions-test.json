@@ -14968,6 +14968,42 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    }
+    },
+	   {
+         "id": 2548,
+         "name": "createSupplierTest_Master",
+         "url": "/egf-master/suppliersTest/_create",
+         "displayName": "Create SupplierTest",
+         "orderNumber": 1,
+         "parentModule": "231",
+         "enabled": true,
+         "serviceCode": "Supplier_Master",
+         "code": "null",
+         "path": "Financial_Master.Financials_Master.Supplier_Master.createSupplier_MasterTest"
+      },
+      {
+         "id": 2549,
+         "name": "updateSupplierTest_Master",
+         "url": "/egf-master/suppliersTest/_update",
+         "displayName": "Modify SupplierTest",
+         "orderNumber": 2,
+         "parentModule": "231",
+         "enabled": true,
+         "serviceCode": "Supplier_Master",
+         "code": "null",
+         "path": "Financial_Master.Financials_Master.Supplier_Master.updateSupplier_MasterTest"
+      },
+      {
+         "id": 2550,
+         "name": "searchSupplierTest_Master",
+         "url": "/egf-master/suppliersTest/_search",
+         "displayName": "Search SupplierTest",
+         "orderNumber": 3,
+         "parentModule": "231",
+         "enabled": true,
+         "serviceCode": "Supplier_Master",
+         "code": "null",
+         "path": "Financial_Master.Financials_Master.Supplier_Master.searchSupplier_MasterTest"
+      }
    ]
 }
