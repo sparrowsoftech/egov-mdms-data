@@ -13243,6 +13243,42 @@
       "leftIcon": "custom:library-books",
       "rightIcon": "",
       "queryParams": ""
-    }   
+    } 
+      {
+         "id": 2403,
+         "name": "createSupplier_Master",
+         "url": "/egf-master/suppliers/_create",
+         "displayName": "Create Supplier",
+         "orderNumber": 1,
+         "parentModule": "231",
+         "enabled": false,
+         "serviceCode": "Supplier_Master",
+         "code": "null",
+         "path": "Financial_Master.Financials_Master.Supplier_Master.createSupplier_Master"
+      },
+      {
+         "id": 2404,
+         "name": "updateSupplier_Master",
+         "url": "/egf-master/suppliers/_update",
+         "displayName": "Modify Supplier",
+         "orderNumber": 2,
+         "parentModule": "231",
+         "enabled": false,
+         "serviceCode": "Supplier_Master",
+         "code": "null",
+         "path": "Financial_Master.Financials_Master.Supplier_Master.updateSupplier_Master"
+      },
+      {
+         "id": 2405,
+         "name": "searchSupplier_Master",
+         "url": "/egf-master/suppliers/_search",
+         "displayName": "Search Supplier",
+         "orderNumber": 3,
+         "parentModule": "231",
+         "enabled": false,
+         "serviceCode": "Supplier_Master",
+         "code": "null",
+         "path": "Financial_Master.Financials_Master.Supplier_Master.searchSupplier_Master"
+      }
    ]
 }
