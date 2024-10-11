@@ -24692,5 +24692,23 @@
       "actioncode": "",
       "tenantId": "pg"
     }
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2404,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2405,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
