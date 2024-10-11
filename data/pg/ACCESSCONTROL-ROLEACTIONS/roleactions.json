@@ -26040,6 +26040,24 @@
       "actionid": 2547,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "SUPERUSER",
+      "actionid": 2548,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
