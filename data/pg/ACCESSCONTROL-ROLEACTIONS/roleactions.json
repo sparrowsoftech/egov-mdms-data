@@ -26058,6 +26058,12 @@
       "actionid": 2550,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 2551,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
