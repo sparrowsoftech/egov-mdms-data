@@ -15004,6 +15004,20 @@
          "serviceCode": "Supplier_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Supplier_Master.searchSupplier_MasterTest"
+      },
+	   {
+         "id": 2551,
+         "name": "Create Supplier",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Create Supplier",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Supplier.Create Supplier",
+         "navigationURL": "services/EGF/supplier/newform"
       }
    ]
 }
