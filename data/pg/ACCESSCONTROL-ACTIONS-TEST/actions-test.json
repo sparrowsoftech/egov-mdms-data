@@ -14974,7 +14974,7 @@
          "name": "Create Supplier",
          "url": "url",
          "parentModule": "",
-         "displayName": "Create Supplier",
+         "displayName": "Test Supplier",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
