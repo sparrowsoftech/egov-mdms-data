@@ -14976,7 +14976,7 @@
          "displayName": "Create Supplier",
          "orderNumber": 1,
          "parentModule": "231",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Supplier_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Supplier_Master.createSupplier_Master"
