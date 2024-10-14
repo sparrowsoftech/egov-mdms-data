@@ -14971,15 +14971,17 @@
     },
      {
          "id": 2548,
-         "name": "createSupplier_Master",
-         "url": "/egf-master/suppliers/_create",
+         "name": "Create Supplier",
+         "url": "url",
+         "parentModule": "",
          "displayName": "Create Supplier",
          "orderNumber": 1,
-         "parentModule": "231",
          "enabled": true,
-         "serviceCode": "Supplier_Master",
+         "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Financial_Master.Financials_Master.Supplier_Master.createSupplier_Master"
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Supplier.Create Supplier",
+         "navigationURL": "services/EGF/supplier/newform"
       }   
    ]
 }
