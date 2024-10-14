@@ -14968,6 +14968,18 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    }
+    },
+     {
+         "id": 2548,
+         "name": "createSupplier_Master",
+         "url": "/egf-master/suppliers/_create",
+         "displayName": "Create Supplier",
+         "orderNumber": 1,
+         "parentModule": "231",
+         "enabled": false,
+         "serviceCode": "Supplier_Master",
+         "code": "null",
+         "path": "Financial_Master.Financials_Master.Supplier_Master.createSupplier_Master"
+      }   
    ]
 }
