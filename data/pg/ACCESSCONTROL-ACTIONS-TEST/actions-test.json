@@ -14981,7 +14981,7 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Supplier.Create Supplier",
-         "navigationURL": "services/EGF/supplier/newform"
+         "navigationURL": "services/EGF/supplier/newformdemo"
       }   
    ]
 }
