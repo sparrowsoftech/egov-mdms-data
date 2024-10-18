@@ -14982,6 +14982,48 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Supplier.Create Supplier",
          "navigationURL": "services/EGF/supplier/newformdemo"
+      },
+	 {
+         "id": 2549,
+         "name": "Create Trader",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Create Trader",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Trader.Create Trader",
+         "navigationURL": "services/EGF/Trader/newform"
+      },
+	   {
+         "id": 2550,
+         "name": "View Trader",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "View Trader",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Trader.View Trader",
+         "navigationURL": "services/EGF/Trader/search/view"
+      } ,
+	   {
+         "id": 2551,
+         "name": "Modify Trader",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Modify Trader",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Trader.Modify Trader",
+         "navigationURL": "services/EGF/Trader/search/edit"
       }   
    ]
 }
