@@ -13243,7 +13243,7 @@
       "leftIcon": "custom:library-books",
       "rightIcon": "",
       "queryParams": ""
-    } 
+    },
       {
          "id": 2403,
          "name": "createSupplierTest_Master",
