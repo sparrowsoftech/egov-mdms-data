@@ -15136,7 +15136,49 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Harsh.Create Lawyer",
          "navigationURL": "services/EGF/harsh/lawyerform"
-      }
+      },
+	   {
+         "id": 2560,
+         "name": "Create Property",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Create Property",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Property.Create Property",
+         "navigationURL": "services/EGF/property/newform"
+      },
+	   {
+         "id": 2561,
+         "name": "View Property",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "View Property",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Property.View Property",
+         "navigationURL": "services/EGF/property/search/view"
+      } ,
+	   {
+         "id": 2562,
+         "name": "Modify Property",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Modify Property",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Property.Modify Property",
+         "navigationURL": "services/EGF/property/search/edit"
+      },
 
    ]
 }
