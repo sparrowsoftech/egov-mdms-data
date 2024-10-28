@@ -15024,6 +15024,48 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Trader.Modify Trader",
          "navigationURL": "services/EGF/Trader/search/edit"
-      }   
+      },
+	{
+         "id": 2552,
+         "name": "Create User",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Create User",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Niranjan.Create",
+         "navigationURL": "services/EGF/niranjan/newform"
+      },
+	   {
+         "id": 2553,
+         "name": "View User",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "View User",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Niranjan.View",
+         "navigationURL": "services/EGF/niranjan/search/view"
+      } ,
+	   {
+         "id": 2554,
+         "name": "Modify User",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Modify User",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Niranjan.Modify",
+         "navigationURL": "services/EGF/niranjan/search/edit"
+      }  
    ]
 }
