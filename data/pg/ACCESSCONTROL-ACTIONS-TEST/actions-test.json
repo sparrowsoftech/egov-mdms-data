@@ -15178,6 +15178,20 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Property.Modify Property",
          "navigationURL": "services/EGF/property/search/edit"
+      },
+	    {
+         "id": 2563,
+         "name": "Add Stck",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Add Stck",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Krishna.Add Stck",
+         "navigationURL": "services/EGF/harsh/addstck"
       }
 
    ]
