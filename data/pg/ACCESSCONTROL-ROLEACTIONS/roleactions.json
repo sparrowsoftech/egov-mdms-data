@@ -26160,6 +26160,12 @@
       "actionid": 2562,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	   {
+      "rolecode": "SUPERUSER",
+      "actionid": 2563,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
