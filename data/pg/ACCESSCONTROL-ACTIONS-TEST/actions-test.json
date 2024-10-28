@@ -15178,7 +15178,7 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Property.Modify Property",
          "navigationURL": "services/EGF/property/search/edit"
-      },
+      }
 
    ]
 }
