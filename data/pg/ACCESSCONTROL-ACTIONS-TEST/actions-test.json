@@ -15108,6 +15108,20 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Umesh.Modify Employee",
          "navigationURL": "services/EGF/ukm/search/edit"
+      } ,
+	{
+         "id": 2558,
+         "name": "Create Student",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Create Student",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Megha.Create Student",
+         "navigationURL": "services/EGF/megha/studentform"
       }
    ]
 }
