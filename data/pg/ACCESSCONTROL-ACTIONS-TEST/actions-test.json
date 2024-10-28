@@ -15066,6 +15066,48 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Niranjan.Modify",
          "navigationURL": "services/EGF/niranjan/search/edit"
-      }  
+      },
+	 {
+         "id": 2555,
+         "name": "Create Employee",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Create Employee",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Umesh.Create Employee",
+         "navigationURL": "services/EGF/ukm/newform"
+      },
+	   {
+         "id": 2556,
+         "name": "View Employee",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "View Employee",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Umesh.View Employee",
+         "navigationURL": "services/EGF/ukm/search/view"
+      } ,
+	   {
+         "id": 2557,
+         "name": "Modify Employee",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Modify Employee",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Umesh.Modify Employee",
+         "navigationURL": "services/EGF/ukm/search/edit"
+      }
    ]
 }
