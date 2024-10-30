@@ -303,6 +303,40 @@
       "address": "Dhenkanal Municipality",
       "contactNumber": "9438256399",
       "helpLineNumber": "9438256399"
+    },
+      {
+      "code": "pg.ranchi",
+      "name": "Ranchi Municipality",
+      "description": "Ranchi Municipality",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ranchi@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Ranchi",
+        "localName": "Ranchi",
+        "districtCode": "6",
+        "districtName": "Ranchi",
+        "districtTenantCode": "pg.ranchi",
+        "regionName": "Ranchi Region",
+        "ulbGrade": "B",
+        "longitude": 0,
+        "latitude": 0,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "D01849",
+        "ddrName": "DDR RANCHI"
+      },
+      "address": "Ranchi Municipality",
+      "contactNumber": "9438256399",
+      "helpLineNumber": "9438256399"
     }
    ]
 }
