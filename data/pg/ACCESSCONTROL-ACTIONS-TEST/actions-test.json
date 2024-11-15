@@ -15234,6 +15234,20 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.License.Modify License",
          "navigationURL": "services/EGF/License/search/edit"
+      },
+	      {
+         "id": 2568,
+         "name": "Test Journal Voucher-Create",
+         "url": "/services/EGF/voucher/journalVoucherform",
+         "parentModule": "",
+         "displayName": "Test Journal Voucher",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceBill",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Transactions.Test Journal Voucher",
+         "navigationURL": "services/EGF/voucher/journalVoucherform"
       }
 
    ]
