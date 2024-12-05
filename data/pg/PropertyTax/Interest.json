@@ -7,6 +7,14 @@
       "minAmount": null,
       "flatAmount": null,
       "maxAmount": null,
+      "fromFY": "2024-25",
+      "startingDay": "1/01/2025"
+    },
+    {
+      "rate": 18,
+      "minAmount": null,
+      "flatAmount": null,
+      "maxAmount": null,
       "fromFY": "2015-16",
       "startingDay": "1/01/2016"
     },
