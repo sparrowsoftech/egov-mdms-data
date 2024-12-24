@@ -86,7 +86,7 @@
       "startingDate": 1554076800000,
       "endingDate": 1585699199000,
       "active": true,
-      "isActiveForPosting": false,
+      "isActiveForPosting": true,
       "isClosed": false,
       "transferClosingBalance": false
     }
