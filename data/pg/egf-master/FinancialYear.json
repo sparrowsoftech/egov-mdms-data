@@ -22,13 +22,13 @@
       "finYearRange":  "2023-24",
       "name":  "2023-24",
       "code":  "2023-24",
-      "startingDate": 1680287400000,
-      "endingDate": 1711909799000,
+      "startingDate": 1677619200000,
+      "endingDate": 1711891200000,
       "active": true,
-      "isActiveForPosting": false,
+      "isActiveForPosting": true,
       "isClosed": false,
       "transferClosingBalance": false,
-      "module": "FIRENOC"
+      "module": "PT"
     },
     {
       "id": "29",
@@ -70,7 +70,7 @@
       "isActiveForPosting": false,
       "isClosed": false,
       "transferClosingBalance": false,
-      "module": "PT"
+      "module": "FIRENOC"
     },
     {
       "id": "26",
