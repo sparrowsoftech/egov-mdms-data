@@ -66,9 +66,9 @@
       "code": "PTAN2018",
       "financialYear": "2018-19"
     },
-    {
+   {
       "fromDate": 1491004800000,
-      "toDate": 1522540798000,
+      "toDate": 1522454400000,
       "periodCycle": "ANNUAL",
       "service": "PT",
       "code": "PTAN2017",
