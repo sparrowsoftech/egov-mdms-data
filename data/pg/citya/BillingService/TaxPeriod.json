@@ -21,7 +21,7 @@
     },
     {
       "fromDate": 1680287400000,
-      "toDate": 1711909799000,
+      "toDate": 1711909799000,PT
       "periodCycle": "TWOYEARS",
       "service": "SW",
       "code": "SC2023",
@@ -77,7 +77,7 @@
     },
     {
       "fromDate": 1491004800000,
-      "toDate": 1522540798000,
+      "toDate": 1522454400000,
       "periodCycle": "ANNUAL",
       "service": "PT",
       "code": "PTAN2017",
