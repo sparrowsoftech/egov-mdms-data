@@ -26277,6 +26277,12 @@
       "actionid": 2568,
       "actioncode": "",
       "tenantId": "pg"
+    },
+     {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 2568,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
