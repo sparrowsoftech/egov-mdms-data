@@ -15136,6 +15136,20 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Transactions.Test Journal Voucher",
          "navigationURL": "services/EGF/voucher/journalVoucherform"
+      },
+	    {
+         "id": 2569,
+         "name": "TestTrialBalance",
+         "url": "/services/EGF/report/test-trialBalance-newForm",
+         "parentModule": "",
+         "displayName": "Test Trial Balance",
+         "orderNumber": 9,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Reports.Accounting Records.Test Trial Balance",
+         "navigationURL": "services/EGF/report/test-trialBalance-newForm"
       }
 
    ]
