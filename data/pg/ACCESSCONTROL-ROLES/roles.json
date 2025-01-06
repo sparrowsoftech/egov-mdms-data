@@ -711,6 +711,12 @@
       "code": "PT_CROSS_VERIFIER",
       "name": "PT cross verifier",
       "description": "Cross Verifier should verify the property again"
+    },
+    {
+      "code": "PT_ASSMT_CROSS_VERIFIER",
+      "name": "PT Assessment cross verifier",
+      "description": "Cross Verifier should verify the assessment of that property again"
     }
+
   ]
 }
