@@ -706,6 +706,11 @@
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
+    },
+    {
+      "code": "PT_CROSS_VERIFIER",
+      "name": "PT cross verifier",
+      "description": "Cross Verifier should verify the property again"
     }
   ]
 }
