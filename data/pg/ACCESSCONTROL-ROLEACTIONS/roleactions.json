@@ -26283,6 +26283,18 @@
       "actionid": 2568,
       "actioncode": "",
       "tenantId": "pg"
+    },
+	  {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2569,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2569,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
