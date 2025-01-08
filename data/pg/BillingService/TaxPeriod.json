@@ -882,6 +882,14 @@
       "code": "BPA10YRS2018",
       "financialYear": "2018-28"
     },
+     {
+      "fromDate": 1711843200000,
+      "toDate": 1743550800000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2024",
+      "financialYear": "2024-25"
+    },
     {
       "fromDate": 1585785599000,
       "toDate": 1617235199000,
