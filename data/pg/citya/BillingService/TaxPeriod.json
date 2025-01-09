@@ -884,6 +884,14 @@
       "financialYear": "2018-28"
     },
     {
+      "fromDate": 1711921800000,
+      "toDate": 1748800199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2024",
+      "financialYear": "2024-25"
+    },
+    {
       "fromDate": 1585785599000,
       "toDate": 1617235199000,
       "periodCycle": "ANNUAL",
