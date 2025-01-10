@@ -76,6 +76,30 @@
       ]
     },
     {
+      "module": "Reports",
+      "code": "REPORTS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        }
+      ]
+    },
+    {
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
       "active": true,
