@@ -15026,48 +15026,6 @@
          "navigationURL": "services/EGF/Trader/search/edit"
       },
 	{
-         "id": 2560,
-         "name": "Create Property",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "Create Property",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Property.Create Property",
-         "navigationURL": "services/EGF/property/newform"
-      },
-	   {
-         "id": 2561,
-         "name": "View Property",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "View Property",
-         "orderNumber": 2,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Property.View Property",
-         "navigationURL": "services/EGF/property/search/view"
-      } ,
-	   {
-         "id": 2562,
-         "name": "Modify Property",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "Modify Property",
-         "orderNumber": 3,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Property.Modify Property",
-         "navigationURL": "services/EGF/property/search/edit"
-      },
-	    {
          "id": 2563,
          "name": "Add Stck",
          "url": "url",
@@ -15081,49 +15039,8 @@
          "path": "Finance.Masters.Krishna.Add Stck",
          "navigationURL": "services/EGF/harsh/addstck"
       },
-	   {
-         "id": 2565,
-         "name": "New License",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "New license",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.License.New License",
-         "navigationURL": "services/EGF/License/newform"
-      },
-	   {
-         "id": 2566,
-         "name": "View License",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "View License",
-         "orderNumber": 2,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.License.View License",
-         "navigationURL": "services/EGF/License/search/view"
-      } ,
-	   {
-         "id": 2567,
-         "name": "Modify License",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "Modify License",
-         "orderNumber": 3,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.License.Modify License",
-         "navigationURL": "services/EGF/License/search/edit"
-      },
-	      {
+	
+	{
          "id": 2568,
          "name": "Test Journal Voucher-Create",
          "url": "/services/EGF/voucher/journalVoucherform",
