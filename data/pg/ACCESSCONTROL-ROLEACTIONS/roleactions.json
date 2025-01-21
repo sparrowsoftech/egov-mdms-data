@@ -26137,18 +26137,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-    {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 2563,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-	   {
-      "rolecode": "SUPERUSER",
-      "actionid": 2563,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
+   
  {
       "rolecode": "EGF_MASTER_ADMIN",
       "actionid": 2555,
