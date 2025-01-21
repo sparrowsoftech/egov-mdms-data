@@ -26137,44 +26137,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	  {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 2560,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-   {
-      "rolecode": "SUPERUSER",
-      "actionid": 2560,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
     {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 2561,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-   {
-      "rolecode": "SUPERUSER",
-      "actionid": 2561,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 2562,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-   {
-      "rolecode": "SUPERUSER",
-      "actionid": 2562,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-
-	  {
       "rolecode": "EGF_MASTER_ADMIN",
       "actionid": 2563,
       "actioncode": "",
@@ -26192,33 +26155,31 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	   {
+{
       "rolecode": "SUPERUSER",
       "actionid": 2555,
       "actioncode": "",
       "tenantId": "pg"
     },
-
-	  {
+    {
       "rolecode": "EGF_MASTER_ADMIN",
       "actionid": 2556,
       "actioncode": "",
       "tenantId": "pg"
     },
-	   {
+     {
       "rolecode": "SUPERUSER",
       "actionid": 2556,
       "actioncode": "",
       "tenantId": "pg"
     },
-
-	  {
+     {
       "rolecode": "EGF_MASTER_ADMIN",
       "actionid": 2557,
       "actioncode": "",
       "tenantId": "pg"
     },
-	   {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2557,
       "actioncode": "",
@@ -26247,43 +26208,7 @@
       "actionid": 2558,
       "actioncode": "",
       "tenantId": "pg"
-    },
-    {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 2565,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2565,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-     {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 2566,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2566,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-     {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 2567,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2567,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
+    },   
     {
       "rolecode": "SUPERUSER",
       "actionid": 2568,
