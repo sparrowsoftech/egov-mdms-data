@@ -26053,7 +26053,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	  {
+    {
       "rolecode": "EGF_REPORT_VIEW",
       "actionid": 2548,
       "actioncode": "",
@@ -26064,6 +26064,18 @@
       "actionid": 2548,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2549,
+      "actioncode": "",
+      "tenantId": "pg"
+    }	  
   ]
 }
