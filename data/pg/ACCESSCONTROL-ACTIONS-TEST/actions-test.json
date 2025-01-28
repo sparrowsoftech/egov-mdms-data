@@ -14997,19 +14997,49 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Reports.Financial Statements.Reciept & Payment"
       },
-	 {
+      {
          "id": 2550,
-         "name": "interFundTransfer_create",
+         "name": "create",
          "navigationURL": "services/EGF/grantsfund/newform",
          "url": "url",
          "parentModule": "",
          "displayName": "Create",
-         "orderNumber": 12,
+         "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Inter Fund Transfer.interFundTransfer_create"
+         "path": "Finance.Masters.Inter Fund Transfer.create"
+         
+      },
+      {
+         "id": 2551,
+         "name": "modify",
+         "navigationURL": "services/EGF/grantsfund/search/edit",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "modify",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Inter Fund Transfer.modify"
+         
+      },
+      {
+         "id": 2552,
+         "name": "view",         
+         "url": "url",
+         "parentModule": "",
+         "displayName": "view",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Inter Fund Transfer.view",
+	 "navigationURL": "services/EGF/grantsfund/search/view"
          
       }
    ]
