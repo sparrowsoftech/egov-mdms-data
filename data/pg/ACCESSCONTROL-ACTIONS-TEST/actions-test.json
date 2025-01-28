@@ -14999,17 +14999,17 @@
       },
 	 {
          "id": 2550,
-         "name": "Inter Fund Transfer",
+         "name": "interFundTransfer_create",
          "navigationURL": "services/EGF/grantsfund/newform",
          "url": "url",
          "parentModule": "EGF",
-         "displayName": "Inter Fund Transfer",
+         "displayName": "Create",
          "orderNumber": 12,
          "enabled": true,
          "serviceCode": "InterFundTransfer",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Financials.Financial_Master.Inter_Fund_Transfer.create"
+         "path": "Financials.Financial_Master.Inter_Fund_Transfer.interFundTransfer_create"
          
       }
    ]
