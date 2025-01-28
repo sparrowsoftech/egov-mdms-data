@@ -26076,6 +26076,18 @@
       "actionid": 2549,
       "actioncode": "",
       "tenantId": "pg"
-    }	  
+    },
+	  {
+      "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2550,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
