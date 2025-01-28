@@ -14996,6 +14996,20 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Reports.Financial Statements.Reciept & Payment"
+      },
+	   {
+         "id": 2550,
+         "name": "Inter Fund Transfer",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Inter Fund Transfer",
+         "orderNumber": 8,
+         "enabled": true,
+         "serviceCode": "FinanceBill",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Transactions.Inter Fund Transfer",
+         "navigationURL": "services/EGF/grantss/newform"
       }
    ]
 }
