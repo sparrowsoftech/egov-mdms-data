@@ -15002,14 +15002,14 @@
          "name": "interFundTransfer_create",
          "navigationURL": "services/EGF/grantsfund/newform",
          "url": "url",
-         "parentModule": "EGF",
+         "parentModule": "",
          "displayName": "Create",
          "orderNumber": 12,
          "enabled": true,
-         "serviceCode": "InterFundTransfer",
+         "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Financials.Financial_Master.Inter_Fund_Transfer.interFundTransfer_create"
+         "path": "Finance.Masters.Inter Fund Transfer.interFundTransfer_create"
          
       }
    ]
