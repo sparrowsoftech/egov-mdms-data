@@ -1168,24 +1168,24 @@
          "name": "createChartOfAccount_Master",
          "url": "services/EGF/masters/chartOfAccounts-create.action",
          "displayName": "Create Chart Of Accounts",
-         "orderNumber": 1,
-         "parentModule": "240",
+         "orderNumber": 4,
+         "parentModule": "",
          "enabled": true,
          "serviceCode": "ChartOfAccount_Master",
          "code": "null",
-         "path": "Financials.Financials_Masters.ChartOfAccount_Master.createChartOfAccount_Master"
+         "path": "Finance.Masters.ChartOfAccount_Master.createChartOfAccount_Master"
       },
       {
          "id": 671,
          "name": "updateChartOfAccount_Master",
-         "url": "/egf-master/chartofaccounts/_update",
+         "url": "services/EGF/masters/chartOfAccounts-update.action",
          "displayName": "Modify Chart Of Accounts",
-         "orderNumber": 2,
+         "orderNumber": 5,
          "parentModule": "240",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ChartOfAccount_Master",
          "code": "null",
-         "path": "Financials.Financials_Masters.ChartOfAccount_Master.updateChartOfAccount_Master"
+         "path": "Finance.Masters.ChartOfAccount_Master.updateChartOfAccount_Master"
       },
       {
          "id": 673,
@@ -15085,6 +15085,7 @@
          "path": "Finance.Masters.Party Type.Create Party Type",
 	 "navigationURL": "services/EGF/masters/partyType-newform.action"
          
-      }   
+      }
+	   
    ]
 }
