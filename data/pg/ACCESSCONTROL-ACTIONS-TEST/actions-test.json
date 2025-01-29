@@ -15070,7 +15070,21 @@
          "navigationURL": "services/EGF/revenue/fixedDeposit-newForm.action",
          "leftIcon": "image:collections",
          "path": "Finance.Revenue/Collections.Deposit.Fixed Deposit"
-      }
-
+      },
+	{
+         "id": 2555,
+         "name": "Party Type",         
+         "url": "services/EGF/masters/partyType-newform.action",
+         "parentModule": "",
+         "displayName": "Party Type",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Party Type.Create Party Type",
+	 "navigationURL": "services/EGF/masters/partyType-newform.action"
+         
+      }   
    ]
 }
