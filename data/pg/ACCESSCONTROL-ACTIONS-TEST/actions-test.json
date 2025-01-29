@@ -15097,7 +15097,7 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
          "path": "Finance.Masters.Chartofaccounts.chartsOfAccountmaster.createChartOfAccount",
-         "navigationURL": "services/EGF/masters/chartOfAccounts-create.action"
+         "navigationURL": "services/EGF/masters/chartOfAccounts-addNewCoa.action"
 
       },
       {
