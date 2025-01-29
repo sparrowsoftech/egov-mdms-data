@@ -15089,7 +15089,7 @@
 	   {
          "id": 2556,
          "name": "createChartOfAccount",
-         "url": "services/EGF/masters/chartOfAccounts-create.action",
+         "url": "services/EGF/masters/chartOfAccounts-addNewCoa.action",
          "displayName": "Create Chart Of Accounts",
          "orderNumber": 1,
          "parentModule": "",
