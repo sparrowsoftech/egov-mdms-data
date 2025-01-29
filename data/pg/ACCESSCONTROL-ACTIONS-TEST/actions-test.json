@@ -1168,9 +1168,9 @@
          "name": "createChartOfAccount_Master",
          "url": "services/EGF/masters/chartOfAccounts-create.action",
          "displayName": "Create Chart Of Accounts",
-         "orderNumber": 4,
-         "parentModule": "",
-         "enabled": true,
+         "orderNumber": 1,
+         "parentModule": "240",
+         "enabled": false,
          "serviceCode": "ChartOfAccount_Master",
          "code": "null",
          "path": "Finance.Masters.ChartOfAccount_Master.createChartOfAccount_Master"
@@ -1180,9 +1180,9 @@
          "name": "updateChartOfAccount_Master",
          "url": "services/EGF/masters/chartOfAccounts-update.action",
          "displayName": "Modify Chart Of Accounts",
-         "orderNumber": 5,
+         "orderNumber": 2,
          "parentModule": "240",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "ChartOfAccount_Master",
          "code": "null",
          "path": "Finance.Masters.ChartOfAccount_Master.updateChartOfAccount_Master"
@@ -15085,6 +15085,30 @@
          "path": "Finance.Masters.Party Type.Create Party Type",
 	 "navigationURL": "services/EGF/masters/partyType-newform.action"
          
+      },
+	   {
+         "id": 2556,
+         "name": "createChartOfAccount",
+         "url": "services/EGF/masters/chartOfAccounts-create.action",
+         "displayName": "Create Chart Of Accounts",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "path": "Finance.Masters.Chartofaccounts.chartsOfAccountmaster.createChartOfAccount"
+      },
+      {
+         "id": 2557,
+         "name": "updateChartOfAccount",
+         "url": "services/EGF/masters/chartOfAccounts-update.action",
+         "displayName": "Modify Chart Of Accounts",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "path": "Finance.Masters.Chartofaccounts.chartsOfAccountmaster.updateChartOfAccount"
       }
 	   
    ]
