@@ -15096,7 +15096,9 @@
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Finance.Masters.Chartofaccounts.chartsOfAccountmaster.createChartOfAccount"
+         "path": "Finance.Masters.Chartofaccounts.chartsOfAccountmaster.createChartOfAccount",
+         "navigationURL": "services/EGF/masters/chartOfAccounts-create.action"
+
       },
       {
          "id": 2557,
@@ -15108,7 +15110,8 @@
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Finance.Masters.Chartofaccounts.chartsOfAccountmaster.updateChartOfAccount"
+         "path": "Finance.Masters.Chartofaccounts.chartsOfAccountmaster.updateChartOfAccount",
+	 "navigationURL": "services/EGF/masters/chartOfAccounts-update.action"
       },
 	{
          "id": 2558,
