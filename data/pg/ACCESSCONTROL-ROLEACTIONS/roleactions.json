@@ -489,6 +489,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 670,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "EGF_ADMINISTRATOR",
       "actionid": 671,
       "actioncode": "",
