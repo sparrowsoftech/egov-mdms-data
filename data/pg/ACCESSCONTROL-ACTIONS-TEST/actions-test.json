@@ -15041,6 +15041,21 @@
          "path": "Finance.Masters.Inter Fund Transfer.view",
 	 "navigationURL": "services/EGF/grantsfund/search/view"
          
+      },
+      {
+         "id": 2553,
+         "name": "grantloan",         
+         "url": "services/EGF/loan/masters/loanGrant-newForm.action",
+         "parentModule": "",
+         "displayName": "grant loan",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Loan.grantloan",
+	 "navigationURL": "services/EGF/loan/masters/loanGrant-newForm.action"
+         
       }
    ]
 }
