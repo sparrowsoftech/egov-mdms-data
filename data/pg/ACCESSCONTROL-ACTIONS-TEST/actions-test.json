@@ -1170,7 +1170,7 @@
          "displayName": "Create Chart Of Accounts",
          "orderNumber": 1,
          "parentModule": "240",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ChartOfAccount_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.ChartOfAccount_Master.createChartOfAccount_Master"
@@ -15070,6 +15070,7 @@
          "navigationURL": "services/EGF/revenue/fixedDeposit-newForm.action",
          "leftIcon": "image:collections",
          "path": "Finance.Revenue/Collections.Deposit.Fixed Deposit"
-      }
+      },
+
    ]
 }
