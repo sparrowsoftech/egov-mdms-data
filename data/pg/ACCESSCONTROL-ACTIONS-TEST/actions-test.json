@@ -1166,7 +1166,7 @@
       {
          "id": 670,
          "name": "createChartOfAccount_Master",
-         "url": "/egf-master/chartofaccounts/_create",
+         "url": "services/EGF/masters/chartOfAccounts-create.action",
          "displayName": "Create Chart Of Accounts",
          "orderNumber": 1,
          "parentModule": "240",
