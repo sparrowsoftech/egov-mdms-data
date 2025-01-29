@@ -15070,7 +15070,7 @@
          "navigationURL": "services/EGF/revenue/fixedDeposit-newForm.action",
          "leftIcon": "image:collections",
          "path": "Finance.Revenue/Collections.Deposit.Fixed Deposit"
-      },
+      }
 
    ]
 }
