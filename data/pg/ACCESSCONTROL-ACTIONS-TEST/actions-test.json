@@ -15109,7 +15109,35 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
          "path": "Finance.Masters.Chartofaccounts.chartsOfAccountmaster.updateChartOfAccount"
-      }
-	   
+      },
+	{
+         "id": 2558,
+         "name": "Party Type",         
+         "url": "services/EGF/masters/partyType-edit.action",
+         "parentModule": "",
+         "displayName": "Party Type",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Party Type.Create Party Type",
+	 "navigationURL": "services/EGF/masters/partyType-edit.action"
+         
+      }, 
+	 {
+         "id": 2559,
+         "name": "Party Type",         
+         "url": "services/EGF/masters/partyType-search.action",
+         "parentModule": "",
+         "displayName": "Party Type",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Party Type.Create Party Type",
+	 "navigationURL": "services/EGF/masters/partyType-search.action"
+      }  	   
    ]
 }
