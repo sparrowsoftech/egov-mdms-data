@@ -15045,7 +15045,7 @@
       {
          "id": 2553,
          "name": "grantloan",         
-         "url": "services/EGF/loan/masters/loanGrant-newForm.action",
+         "url": "services/EGF/masters/loanGrant-newForm.action",
          "parentModule": "",
          "displayName": "grant loan",
          "orderNumber": 1,
@@ -15054,7 +15054,7 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Loan.grantloan",
-	 "navigationURL": "services/EGF/loan/masters/loanGrant-newForm.action"
+	 "navigationURL": "services/EGF/masters/loanGrant-newForm.action"
          
       }
    ]
