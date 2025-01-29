@@ -15141,6 +15141,21 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Party Type.Search Party Type",
 	 "navigationURL": "services/EGF/masters/partyType-search.action"
-      }  	   
+      },
+	  {
+         "id": 2560,
+         "name": "Create Funding Agency",         
+         "url": "services/EGF/masters/fundingAgency-newForm.action",
+         "parentModule": "",
+         "displayName": "Create Funding Agency",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Funding Agency.Create",
+	 "navigationURL": "services/EGF/masters/fundingAgency-newForm.action"
+         
+      } 
    ]
 }
