@@ -15073,10 +15073,10 @@
       },
 	{
          "id": 2555,
-         "name": "Party Type",         
+         "name": "Create Party Type",         
          "url": "services/EGF/masters/partyType-newform.action",
          "parentModule": "",
-         "displayName": "Party Type",
+         "displayName": "Create Party Type",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
@@ -15115,16 +15115,16 @@
       },
 	{
          "id": 2558,
-         "name": "Party Type",         
+         "name": "Edit Party Type",         
          "url": "services/EGF/masters/partyType-edit.action",
          "parentModule": "",
-         "displayName": "Party Type",
+         "displayName": "Edit Party Type",
          "orderNumber": 2,
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Party Type.Create Party Type",
+         "path": "Finance.Masters.Party Type.Edit Party Type",
 	 "navigationURL": "services/EGF/masters/partyType-edit.action"
          
       }, 
@@ -15139,7 +15139,7 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Party Type.Create Party Type",
+         "path": "Finance.Masters.Party Type.Search Party Type",
 	 "navigationURL": "services/EGF/masters/partyType-search.action"
       }  	   
    ]
