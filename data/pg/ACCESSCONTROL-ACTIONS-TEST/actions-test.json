@@ -15056,6 +15056,20 @@
          "path": "Finance.Masters.Loan.grantloan",
 	 "navigationURL": "services/EGF/masters/loanGrant-newForm.action"
          
+      },
+     {
+         "id": 2554,
+         "name": "Fixed Deposit",
+         "url": "url",
+         "displayName": "Fixed Deposit",
+         "orderNumber": 5,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Revenue",
+         "code": "null",
+         "navigationURL": "services/EGF/revenue/fixedDeposit-newForm.action",
+         "leftIcon": "image:collections",
+         "path": "Finance.Revenue/Collections.Deposit.Fixed Deposit"
       }
    ]
 }
