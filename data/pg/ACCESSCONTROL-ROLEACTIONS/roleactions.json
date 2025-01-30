@@ -26311,6 +26311,18 @@
     },
    {
       "rolecode": "SUPERUSER",
+      "actionid": 2570,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2570,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+   {
+      "rolecode": "SUPERUSER",
       "actionid": 2600,
       "actioncode": "",
       "tenantId": "pg"
