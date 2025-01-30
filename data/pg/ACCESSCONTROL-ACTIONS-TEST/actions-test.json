@@ -15365,7 +15365,7 @@
          "code": "null",
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.App Config.View",
-	 "navigationURL": "services/egi/app/config"
+	 "navigationURL": "services/egi/app/config/view"
     }   
    ]
 }
