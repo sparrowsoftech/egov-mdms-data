@@ -26226,6 +26226,18 @@
       "actionid": 2561,
       "actioncode": "",
       "tenantId": "pg"
-    } 
+    },
+   {
+      "rolecode": "SUPERUSER",
+      "actionid": 2562,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2562,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
