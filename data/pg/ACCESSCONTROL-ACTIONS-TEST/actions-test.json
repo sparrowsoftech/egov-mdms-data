@@ -15286,7 +15286,7 @@
       {
          "id": 2570,
          "name": "Assignment Report",         
-         "url": "services/eis/reports/employeeassignments/searchform",
+         "url": "url",
          "parentModule": "",
          "displayName": "Assignment Report",
          "orderNumber": 1,
@@ -15295,7 +15295,7 @@
          "code": "null",
 	 "leftIcon": "image:collections",
          "path": "Finance.Reports.Assignment Report",
-	 "navigationURL": ""
+	 "navigationURL": "services/eis/reports/employeeassignments/searchform"
       },
       {
       "id": 2600,
