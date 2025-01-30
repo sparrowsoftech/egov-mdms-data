@@ -15168,9 +15168,8 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
 	 "leftIcon": "image:collections",
-         "path": "Finance.Revenue/Collections.Revenue Report"
+         "path": "Finance.Revenue/Collections.Revenue Report",
 	 "navigationURL": "services/EGF/collection/revenue/searchRevenueReport-search.action"
-         
       }
    ]
 }
