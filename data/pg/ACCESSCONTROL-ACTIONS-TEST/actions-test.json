@@ -15168,7 +15168,7 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
 	 "leftIcon": "image:collections",
-         "path": "Finance.Revenue/Collections.Revenue Report",
+         "path": "Finance.Reports.Revenue Reports.Search Revenue Report",
 	 "navigationURL": "services/EGF/report/remittance/revenue/searchRevenueReport-beforeSearch.action"
       },
 	    {
