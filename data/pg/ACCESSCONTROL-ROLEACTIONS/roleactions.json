@@ -26287,5 +26287,17 @@
       "actioncode": "",
       "tenantId": "pg"
     }
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2603,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2603,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
