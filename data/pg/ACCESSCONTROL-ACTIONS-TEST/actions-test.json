@@ -15270,6 +15270,20 @@
 	 "navigationURL": "services/EGF/role/view"
       },
       {
+         "id": 2569,
+         "name": "Concurrence Report",         
+         "url": "services/EGF/report/payment/concurrenceReport-ajaxLoadPaymentHeader.action",
+         "parentModule": "",
+         "displayName": "Concurrence Report,
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "image:collections",
+         "path": "Finance.Reports.Concurrence Report",
+	 "navigationURL": "services/EGF/report/payment/concurrenceReport-ajaxLoadPaymentHeader.action"
+      }
+      {
       "id": 2600,
       "name": "Create Department",
       "url": "url",
