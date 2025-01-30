@@ -15274,7 +15274,7 @@
          "name": "Concurrence Report",         
          "url": "services/EGF/report/payment/concurrenceReport-ajaxLoadPaymentHeader.action",
          "parentModule": "",
-         "displayName": "Concurrence Report,
+         "displayName": "Concurrence Report",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
