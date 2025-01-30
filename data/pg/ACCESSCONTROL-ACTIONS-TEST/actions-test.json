@@ -15156,6 +15156,21 @@
          "path": "Finance.Masters.Funding Agency.Create",
 	 "navigationURL": "services/EGF/masters/fundingAgency-newForm.action"
          
-      } 
+      },
+       {
+         "id": 2561,
+         "name": "Search Revenue Report",         
+         "url": "services/EGF/collection/revenue/searchRevenueReport-search.action",
+         "parentModule": "",
+         "displayName": "Search Revenue Report",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "image:collections",
+         "path": "Finance.Revenue/Collections.Revenue Report"
+	 "navigationURL": "services/EGF/collection/revenue/searchRevenueReport-search.action"
+         
+      }
    ]
 }
