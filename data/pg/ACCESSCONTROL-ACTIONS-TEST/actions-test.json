@@ -15282,7 +15282,7 @@
 	 "leftIcon": "image:collections",
          "path": "Finance.Reports.Concurrence Report",
 	 "navigationURL": "services/EGF/report/payment/concurrenceReport-ajaxLoadPaymentHeader.action"
-      }
+      },
       {
       "id": 2600,
       "name": "Create Department",
