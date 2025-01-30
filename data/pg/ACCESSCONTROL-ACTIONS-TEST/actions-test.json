@@ -15228,6 +15228,48 @@
 	 "navigationURL": "services/EGF/userrole/view"
       },
       {
+         "id": 2566,
+         "name": "User",         
+         "url": "services/EGF/role/create",
+         "parentModule": "",
+         "displayName": "User",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Role.Create Role",
+	 "navigationURL": "services/EGF/role/create"
+      },
+	{
+         "id": 2567,
+         "name": "User",         
+         "url": "services/EGF/role/update",
+         "parentModule": "",
+         "displayName": "User",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Role.Update Role",
+	 "navigationURL": "services/EGF/role/update"
+      },
+	{
+         "id": 2568,
+         "name": "User",         
+         "url": "services/EGF/role/view",
+         "parentModule": "",
+         "displayName": "User",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Role.View Role",
+	 "navigationURL": "services/EGF/role/view"
+      },
+      {
       "id": 2600,
       "name": "Create Department",
       "url": "url",
