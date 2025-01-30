@@ -15295,7 +15295,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Department.Create Department",
-      "navigationURL": "services/EGI/masters/department/create"
+      "navigationURL": "services/egi/masters/department/create"
     },
     {
       "id": 2601,
@@ -15309,7 +15309,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Department.View Department",
-      "navigationURL": "services/EGI/masters/department/view"
+      "navigationURL": "services/egi/masters/department/view"
     },
     {
       "id": 2602,
@@ -15323,7 +15323,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Department.Modify Department",
-      "navigationURL": "services/EGI/masters/department/search/edit"
+      "navigationURL": "services/egi/masters/department/search/edit"
     },
     {
          "id": 2603,
