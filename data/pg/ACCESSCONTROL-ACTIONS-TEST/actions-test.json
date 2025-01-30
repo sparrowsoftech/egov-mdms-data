@@ -15188,7 +15188,7 @@
       {
          "id": 2563,
          "name": "User",         
-         "url": "services/EGF/userrole/search",
+         "url": "services/egi/userrole/search",
          "parentModule": "",
          "displayName": "Search User",
          "orderNumber": 1,
@@ -15197,12 +15197,12 @@
          "code": "null",
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.User.Search User",
-	 "navigationURL": "services/EGF/userrole/search"
+	 "navigationURL": "services/egi/userrole/search"
       },
 	{
          "id": 2564,
          "name": "User",         
-         "url": "services/EGF/userrole/update",
+         "url": "services/egi/userrole/update",
          "parentModule": "",
          "displayName": "Update User",
          "orderNumber": 2,
@@ -15211,12 +15211,12 @@
          "code": "null",
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.User.Update User",
-	 "navigationURL": "services/EGF/userrole/update"
+	 "navigationURL": "services/egi/userrole/update"
       },
 	{
          "id": 2565,
          "name": "User",         
-         "url": "services/EGF/userrole/view",
+         "url": "services/egi/userrole/view",
          "parentModule": "",
          "displayName": "View User",
          "orderNumber": 3,
@@ -15225,12 +15225,12 @@
          "code": "null",
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.User.View User",
-	 "navigationURL": "services/EGF/userrole/view"
+	 "navigationURL": "services/egi/userrole/view"
       },
       {
          "id": 2566,
          "name": "User",         
-         "url": "services/EGF/role/create",
+         "url": "services/egi/role/create",
          "parentModule": "",
          "displayName": "Create Role",
          "orderNumber": 1,
@@ -15239,12 +15239,12 @@
          "code": "null",
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Role.Create Role",
-	 "navigationURL": "services/EGF/role/create"
+	 "navigationURL": "services/egi/role/create"
       },
 	{
          "id": 2567,
          "name": "User",         
-         "url": "services/EGF/role/update",
+         "url": "services/egi/role/update",
          "parentModule": "",
          "displayName": "Update Role",
          "orderNumber": 3,
@@ -15253,12 +15253,12 @@
          "code": "null",
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Role.Update Role",
-	 "navigationURL": "services/EGF/role/update"
+	 "navigationURL": "services/egi/role/update"
       },
 	{
          "id": 2568,
          "name": "User",         
-         "url": "services/EGF/role/view",
+         "url": "services/egi/role/view",
          "parentModule": "",
          "displayName": "View Role",
          "orderNumber": 2,
@@ -15267,7 +15267,7 @@
          "code": "null",
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Role.View Role",
-	 "navigationURL": "services/EGF/role/view"
+	 "navigationURL": "services/egi/role/view"
       },
       {
          "id": 2569,
