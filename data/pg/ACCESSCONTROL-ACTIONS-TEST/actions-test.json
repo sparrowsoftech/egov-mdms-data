@@ -15272,7 +15272,7 @@
       {
          "id": 2569,
          "name": "Concurrence Report",         
-         "url": "services/EGF/report/payment/concurrenceReport-ajaxLoadPaymentHeader.action",
+         "url": "services/EGF/report/payment/concurrenceReport.action",
          "parentModule": "",
          "displayName": "Concurrence Report",
          "orderNumber": 1,
@@ -15281,7 +15281,7 @@
          "code": "null",
 	 "leftIcon": "image:collections",
          "path": "Finance.Reports.Concurrence Report",
-	 "navigationURL": "services/EGF/report/payment/concurrenceReport-ajaxLoadPaymentHeader.action"
+	 "navigationURL": "services/EGF/report/payment/concurrenceReport.action"
       },
       {
       "id": 2600,
