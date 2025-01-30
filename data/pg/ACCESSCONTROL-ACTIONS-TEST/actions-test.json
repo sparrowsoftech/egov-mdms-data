@@ -15351,7 +15351,7 @@
          "code": "null",
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.App Config.Create",
-	 "navigationURL": "services/EGI/app/config/create"
+	 "navigationURL": "services/egi/app/config/create"
     }  
    ]
 }
