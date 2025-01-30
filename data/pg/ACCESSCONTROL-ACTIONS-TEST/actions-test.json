@@ -15284,6 +15284,20 @@
 	 "navigationURL": "services/EGF/payment/concurrenceReport-ajaxLoadPaymentHeader.action"
       },
       {
+         "id": 2570,
+         "name": "Assignment Report",         
+         "url": "services/eis/reports/employeeassignments/searchform",
+         "parentModule": "",
+         "displayName": "Assignment Report",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "image:collections",
+         "path": "Finance.Reports.Assignment Report",
+	 "navigationURL": "services/eis/reports/employeeassignments/searchform"
+      },
+      {
       "id": 2600,
       "name": "Create Department",
       "url": "url",
