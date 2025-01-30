@@ -15170,6 +15170,20 @@
 	 "leftIcon": "image:collections",
          "path": "Finance.Revenue/Collections.Revenue Report",
 	 "navigationURL": "services/EGF/report/remittance/revenue/searchRevenueReport-beforeSearch.action"
-      }
+      },
+	    {
+         "id": 2562,
+         "name": "Advance Payment",         
+         "url": "services/EGF/payment/advancePayment-newform.action",
+         "parentModule": "",
+         "displayName": "Advance Payment",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Advance Payment.Create",
+	 "navigationURL": "services/EGF/payment/advancePayment-newform.action"
+      }   
    ]
 }
