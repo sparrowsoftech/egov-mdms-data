@@ -15199,6 +15199,34 @@
          "path": "Finance.Masters.User.Search User",
 	 "navigationURL": "services/EGF/userrole/search"
       },
+	{
+         "id": 2564,
+         "name": "User",         
+         "url": "services/EGF/userrole/update",
+         "parentModule": "",
+         "displayName": "User",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.User.Update User",
+	 "navigationURL": "services/EGF/userrole/update"
+      },
+	{
+         "id": 2565,
+         "name": "User",         
+         "url": "services/EGF/userrole/view",
+         "parentModule": "",
+         "displayName": "User",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+	 "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.User.View User",
+	 "navigationURL": "services/EGF/userrole/view"
+      },
       {
       "id": 2600,
       "name": "Create Department",
