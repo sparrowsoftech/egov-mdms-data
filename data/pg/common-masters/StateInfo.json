@@ -9,7 +9,7 @@
       "bannerUrl": "https://images.news18.com/ibnlive/uploads/2021/11/jharkhand-163690843916x9.jpg",
       "logoUrl": "https://sparrowsoftech.com/sspl/assets/img/haryana.jpg",
       "logoUrlWhite": "https://uat.digit.org/pg-egov-assets/mseva-logo-white.png",
-      "statelogo":"https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "statelogo":"https://sparrowsoftech.com/sspl/assets/img/haryana.jpg",
       "hasLocalisation": true,
       "defaultUrl": {
         "citizen": "/user/register",
