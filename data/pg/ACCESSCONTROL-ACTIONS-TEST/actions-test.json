@@ -15144,10 +15144,10 @@
       },
 	  {
          "id": 2560,
-         "name": "Create",         
+         "name": "Create Funding Agency",         
          "url": "services/EGF/masters/fundingAgency-newForm.action",
          "parentModule": "",
-         "displayName": "Create",
+         "displayName": "Create Funding Agency",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
