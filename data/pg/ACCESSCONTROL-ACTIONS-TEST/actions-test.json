@@ -15384,7 +15384,7 @@
 	    {
          "id": 2606,
          "name": "View & Edit",         
-         "url": "services/EGF/masters/fundingAgency-search.action",
+         "url": "services/EGF/masters/fundingAgency-beforeSearch.action",
          "parentModule": "",
          "displayName": "View & Edit",
          "orderNumber": 2,
@@ -15393,7 +15393,7 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Funding Agency.View",
-	 "navigationURL": "services/EGF/masters/fundingAgency-search.action"
+	 "navigationURL": "services/EGF/masters/fundingAgency-beforeSearch.action"
          
       }
    ]
