@@ -6,7 +6,7 @@
       "name": "City A",
       "description": "City A",
       "pincode": [143001,143002,143003,143004,143005],
-      "logoId": "",
+      "logoId": "https://sparrowsoftech.com/sspl/assets/img/haryana.jpg",
       "imageId": null,
       "domainUrl": "https://www.egovernments.org",
       "type": "CITY",
