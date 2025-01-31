@@ -15144,10 +15144,10 @@
       },
 	  {
          "id": 2560,
-         "name": "Create Funding Agency",         
+         "name": "Create",         
          "url": "services/EGF/masters/fundingAgency-newForm.action",
          "parentModule": "",
-         "displayName": "Create Funding Agency",
+         "displayName": "Create",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
@@ -15380,6 +15380,21 @@
 	 "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.App Config.View",
 	 "navigationURL": "services/egi/app/config/view"
-    }   
+    },
+	    {
+         "id": 2606,
+         "name": "View & Edit",         
+         "url": "services/EGF/masters/fundingAgency-search.action",
+         "parentModule": "",
+         "displayName": "View & Edit",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Funding Agency.View",
+	 "navigationURL": "services/EGF/masters/fundingAgency-search.action"
+         
+      }
    ]
 }
