@@ -15014,17 +15014,17 @@
       },
       {
          "id": 2551,
-         "name": "modify",
+         "name": "Cancel",
          "navigationURL": "services/EGF/grantsfund/search/edit",
          "url": "url",
          "parentModule": "",
-         "displayName": "modify",
+         "displayName": "Cancel",
          "orderNumber": 2,
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Inter Fund Transfer.modify"
+         "path": "Finance.Masters.Inter Fund Transfer.cancel"
          
       },
       {
