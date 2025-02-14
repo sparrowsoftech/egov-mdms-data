@@ -15160,7 +15160,7 @@
        {
          "id": 2561,
          "name": "Search Revenue Report",         
-         "url": "services/EGF/revenue/searchRevenueReport-search.action",
+         "url": "services/EGF/revenue/searchRevenueReport-beforeSearch.action",
          "parentModule": "",
          "displayName": "Search Revenue Report",
          "orderNumber": 1,
@@ -15169,7 +15169,7 @@
          "code": "null",
 	 "leftIcon": "image:collections",
          "path": "Finance.Reports.Revenue Reports.Search Revenue Report",
-	 "navigationURL": "services/EGF/revenue/searchRevenueReport-search.action"
+	 "navigationURL": "services/EGF/revenue/searchRevenueReport-beforeSearch.action"
       },
 	    {
          "id": 2562,
