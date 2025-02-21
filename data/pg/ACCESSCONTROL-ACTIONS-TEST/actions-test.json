@@ -15069,7 +15069,7 @@
          "code": "null",
          "navigationURL": "services/EGF/revenue/fixedDeposit-newForm.action",
          "leftIcon": "image:collections",
-         "path": "Finance.Revenue/Collections.Deposit.Fixed Deposit"
+         "path": "Finance.Masters.Deposit.Fixed Deposit"
       },
 	{
          "id": 2555,
