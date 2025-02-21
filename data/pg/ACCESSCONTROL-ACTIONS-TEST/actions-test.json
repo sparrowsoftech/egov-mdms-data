@@ -15065,10 +15065,10 @@
          "orderNumber": 5,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "Revenue",
+         "serviceCode": "FinanceMaster",
          "code": "null",
          "navigationURL": "services/EGF/revenue/fixedDeposit-newForm.action",
-         "leftIcon": "image:collections",
+         "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Deposit.Fixed Deposit"
       },
 	{
