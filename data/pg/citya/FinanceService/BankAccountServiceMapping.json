@@ -29,6 +29,13 @@
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "DISP_FIXED_ASSET.BUILDING",
+      "bankAccount": "000000000001",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "001",
+      "tenantId": "pg.citya"
     }
   ]
 }
