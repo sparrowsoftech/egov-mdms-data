@@ -36,6 +36,20 @@
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
       "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "DISP_FIXED_ASSET.LAND",
+      "bankAccount": "000000000001",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "001",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "bankAccount": "000000000001",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "001",
+      "tenantId": "pg.citya"
     }
   ]
 }
