@@ -32,44 +32,23 @@
     },
     {
       "businessDetails": "DISP_FIXED_ASSET.BUILDING",
-      "bankAccount": "000000000001",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
-      "tenantId": "pg.citya"
-    },
-    {
-      "businessDetails": "DISP_FIXED_ASSET.LAND",
-      "bankAccount": "000000000001",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
-      "tenantId": "pg.citya"
-    },
-    {
-      "businessDetails": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
-      "bankAccount": "000000000001",
-      "bank": "Allahabad UP Gramin Bank",
-      "bankBranch": "001",
-      "tenantId": "pg.citya"
-    },
-    {
-      "businessDetails": "FIRENOC",
       "bankAccount": "000000000002",
       "bank": "Kotak Mahindra Bank",
       "bankBranch": "KMB001",
       "tenantId": "pg.citya"
     },
     {
-      "businessDetails": "FIRENOC",
-      "bankAccount": "000000000003",
-      "bank": "IndusInd Bank",
-      "bankBranch": "IB002",
-      "tenantId": "pg.citya"
-    },
-    {
-      "businessDetails": "TL",
+      "businessDetails": "DISP_FIXED_ASSET.LAND",
       "bankAccount": "000000000004",
       "bank": "Axis Bank",
       "bankBranch": "AB001",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "bankAccount": "000000000003",
+      "bank": "IndusInd Bank",
+      "bankBranch": "IB002",
       "tenantId": "pg.citya"
     }
   ]
