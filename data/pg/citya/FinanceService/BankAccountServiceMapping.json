@@ -33,22 +33,22 @@
     {
       "businessDetails": "DISP_FIXED_ASSET.BUILDING",
       "bankAccount": "000000000002",
-      "bank": "Kotak Mahindra Bank",
-      "bankBranch": "KMB001",
-      "tenantId": "pg.citya"
-    },
-    {
-      "businessDetails": "DISP_FIXED_ASSET.LAND",
-      "bankAccount": "000000000004",
-      "bank": "Axis Bank",
-      "bankBranch": "AB001",
+      "bank": "Andhra Pradesh Grameena Vikas Bank",
+      "bankBranch": "APGV001",
       "tenantId": "pg.citya"
     },
     {
       "businessDetails": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
       "bankAccount": "000000000003",
-      "bank": "IndusInd Bank",
-      "bankBranch": "IB002",
+      "bank": "Andhra Pragathi Grameena Bank",
+      "bankBranch": "APG002",
+      "tenantId": "pg.citya"
+    },
+    {
+      "businessDetails": "DISP_FIXED_ASSET.LAND",
+      "bankAccount": "000000000004",
+      "bank": "Arunachal Pradesh Rural Bank",
+      "bankBranch": "APR001",
       "tenantId": "pg.citya"
     }
   ]
