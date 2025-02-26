@@ -26416,6 +26416,12 @@
       "actionid": 2606,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "PTADMIN",
+      "actionid": 2065,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
