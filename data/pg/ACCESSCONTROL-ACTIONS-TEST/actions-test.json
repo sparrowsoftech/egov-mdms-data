@@ -9007,9 +9007,9 @@
          "id": 2065,
          "name": "Create Vendor/DSO",
          "url": "/vendor/v1/_create",
-         "displayName": "Create Vehicle",
+         "displayName": "Create Vendor",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vendor",
          "code": "null",
          "path": ""
