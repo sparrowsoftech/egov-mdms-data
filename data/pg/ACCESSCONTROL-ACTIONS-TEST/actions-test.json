@@ -4994,7 +4994,7 @@
          "parentModule": "",
          "displayName": "Workflow search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -5163,7 +5163,7 @@
          "parentModule": "",
          "displayName": "BusinessService Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -8987,7 +8987,7 @@
          "url": "/vehicle/v1/_create",
          "displayName": "Create Vehicle",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -8998,7 +8998,7 @@
          "url": "/vehicle/v1/_search",
          "displayName": "Search  Vehicle",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -9020,7 +9020,7 @@
          "url": "/vendor/v1/_search",
          "displayName": "Search  Vendor",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vendor",
          "code": "null",
          "path": ""
@@ -9080,7 +9080,7 @@
          "displayName": "Vehicle Trip Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -10107,7 +10107,7 @@
       "url": "/inbox/v1/_search",
       "displayName": "Inbox Search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "inbox",
       "code": "null",
       "path": ""
@@ -13176,7 +13176,7 @@
       "displayName": "Vendor Driver Create",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
@@ -13188,7 +13188,7 @@
       "displayName": "Vendor Driver Update",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
@@ -13200,7 +13200,7 @@
       "displayName": "Vendor Driver Search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
@@ -13211,7 +13211,7 @@
       "url": "/vendor/v1/_update",
       "displayName": "Update Vendor",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
@@ -13222,7 +13222,7 @@
       "url": "/vehicle/v1/_update",
       "displayName": "Update Vehicle",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vehicle",
        "code": "null",
       "path": ""
