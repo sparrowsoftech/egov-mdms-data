@@ -8943,7 +8943,7 @@
          "url": "/fsm/v1/_create",
          "displayName": "Apply FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -8954,7 +8954,7 @@
          "url": "/fsm/v1/_search",
          "displayName": "Search  FSM Appliacations",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -8965,7 +8965,7 @@
          "url": "/fsm/v1/_update",
          "displayName": "Update FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -8976,7 +8976,7 @@
          "url": "/egov-searcher/locality/FSM/_get",
          "displayName": "FSM locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
