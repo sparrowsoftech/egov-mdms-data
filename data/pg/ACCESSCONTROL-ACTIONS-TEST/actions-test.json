@@ -5492,7 +5492,7 @@
          "url": "url",
          "parentModule": "EGF",
          "displayName": "Departmentwise Budget",
-         "orderNumber": 1,
+         "orderNumber": 2,
          "enabled": true,
          "serviceCode": "FinanceReport",
          "code": "null",
@@ -5506,7 +5506,7 @@
          "url": "url",
          "parentModule": "EGF",
          "displayName": "Functionwise Budget",
-         "orderNumber": 2,
+         "orderNumber": 3,
          "enabled": true,
          "serviceCode": "FinanceReport",
          "code": "null",
@@ -5520,7 +5520,7 @@
          "url": "url",
          "parentModule": "EGF",
          "displayName": "Budget Watch Register",
-         "orderNumber": 3,
+         "orderNumber": 4,
          "enabled": true,
          "serviceCode": "FinanceReport",
          "code": "null",
@@ -5534,7 +5534,7 @@
          "url": "url",
          "parentModule": "EGF",
          "displayName": "Budget Variance Report",
-         "orderNumber": 4,
+         "orderNumber": 5,
          "enabled": true,
          "serviceCode": "FinanceReport",
          "code": "null",
@@ -5548,7 +5548,7 @@
          "url": "url",
          "parentModule": "EGF",
          "displayName": "Budget Upload Report",
-         "orderNumber": 5,
+         "orderNumber": 6,
          "enabled": true,
          "serviceCode": "FinanceReport",
          "code": "null",
@@ -15395,6 +15395,20 @@
          "path": "Finance.Masters.Funding Agency.View",
 	 "navigationURL": "services/EGF/masters/fundingAgency-beforeSearch.action"
          
+      },
+	   {
+         "id": 1767,
+         "name": "ulbwiseBudgetReports_master",
+         "url": "url",
+         "parentModule": "EGF",
+         "displayName": "ULBwise Budget",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "path": "Finance.Reports.Budget Reports.ULBwise Budget",
+         "navigationURL": "services/EGF/budget/budgetReport-ulbWiseReport.action",
+         "leftIcon": "editor:insert-chart"
       }
    ]
 }
